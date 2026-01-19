@@ -1,0 +1,8 @@
+{
+  "name": "Internship Bharat - Bihar Engineering Student Hub",
+  "description": "A centralized academic resource and internship portal for B.Tech and Polytechnic students in Bihar, featuring syllabus downloads, notes, PYQs, and verified internship opportunities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
