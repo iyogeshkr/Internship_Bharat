@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-8 h-8 bg-indigo-600 rounded flex items-center justify-center text-white font-bold">IB</div>
-              <span className="text-lg font-bold">Internship Bharat</span>
+              <span className="text-lg font-bold">Skill Bihar</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">Bihar's leading platform for B.Tech and Polytechnic students. Helping you navigate engineering with ease.</p>
           </div>
@@ -48,7 +48,7 @@ export const Footer: React.FC = () => {
           </div>
         </div>
         <div className="border-t border-slate-50 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-xs text-slate-400 font-bold">© 2024 Internship Bharat. Managed by Bihar Student Community.</p>
+            <p className="text-xs text-slate-400 font-bold">© 2026 Internship Bharat. Managed by Bihar Student Community.</p>
             <p className="text-xs text-slate-400 flex items-center gap-1">Made with <span className="text-red-500">❤️</span> for Bihar Engineers</p>
         </div>
       </div>
